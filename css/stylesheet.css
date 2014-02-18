@@ -9,7 +9,7 @@ img {
  	height: 250px;
  	position: absolute;
  	margin: ;
-	border: 15px rgba(50,50,50,.8);
+	border: 15px solid rgba(50,50,50,.8);
 	border-radius: 30px;
 }
 h1 {
@@ -25,7 +25,7 @@ div {
 	height: 300px;
 	width: 200px;
 	position: relative;
-	left:50%;
+	left: 50%;
 }
 .carousel {
 
