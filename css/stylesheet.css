@@ -15,6 +15,7 @@ img {
 h1 {
 	font-family: 'Engagement', cursive;
 	text-align: center;
+	font-size: 90px;
 }
 div {
 
@@ -23,7 +24,8 @@ div {
 .firstImage {
 	height: 300px;
 	width: 200px;
-	position: center;
+	position: relative;
+	left:50%;
 }
 .carousel {
 
