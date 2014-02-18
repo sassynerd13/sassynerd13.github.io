@@ -1,6 +1,6 @@
 <style>
 body {
-	background-color: #3CB371;
+	background-color: #EE4000;
 	margin: 0 auto;
 	font-family: 'Engagement', cursive;
 	text-align: center;
@@ -14,7 +14,6 @@ div {
   background-size: cover;
   position: relative;
   left: 50%;
-  font-family: 'Engagement', cursive;
 
 }
 .firstImage {
@@ -22,6 +21,8 @@ div {
   	height: 300px;
 	border: 10px solid rgba(50,50,50,.8);
 	border-radius: 25px;
+	position: relative;
+	left: 50%;
 }
 .carousel {
 
@@ -30,6 +31,10 @@ div {
 .about {
 	font-family: 'Raleway', sans-serif;
 	font-size: 85px;
+	color: black;
+	text-align: center;
+
+
 }
 
 </style>
