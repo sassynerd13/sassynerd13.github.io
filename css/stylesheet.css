@@ -4,18 +4,10 @@ body {
 	margin: 0 auto;
 	max-width: 600px;
 }
-img {
-	width: 190px;
- 	height: 250px;
- 	position: absolute;
- 	margin: ;
-	border: 15px solid rgba(50,50,50,.8);
-	border-radius: 30px;
-}
 h1 {
 	font-family: 'Engagement', cursive;
 	text-align: center;
-	font-size: 90px;
+	font-size: 150px;
 }
 div {
 
@@ -26,6 +18,8 @@ div {
 	width: 200px;
 	position: relative;
 	left: 50%;
+	border: 15px solid rgba(50,50,50,.8);
+	border-radius: 25px;
 }
 .carousel {
 
