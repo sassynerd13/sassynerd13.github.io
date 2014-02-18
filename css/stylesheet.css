@@ -1,7 +1,7 @@
 body {
-	color: #EE4000;
+	background-color: #EE4000;
 	font-family: 'Raleway', sans-serif; font-weight: 500;
-	font-size: 85px;
+	font-size: 40px;
 	text-align: center;
 }
 h1 {
@@ -10,9 +10,8 @@ h1 {
 	font-size: 150px;
 }
 div {
-  position: relative;
-  left: 50%;
-
+  	position: relative;
+  	left: 50%;
 }
 .firstImage {
 	width: 230px;
