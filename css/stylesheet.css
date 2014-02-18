@@ -1,0 +1,32 @@
+<style>
+body {
+	background: rgba(60,179,113,1);
+	margin: 0 auto;
+	max-width: 600px;
+}
+img {
+	width: 190px;
+ 	height: 250px;
+ 	position: absolute;
+ 	margin: ;
+	border: 15px rgba(50,50,50,.8);
+	border-radius: 30px;
+}
+h1 {
+	font-family: 'Engagement', cursive;
+	text-align: center;
+}
+div {
+
+}
+
+.firstImage {
+	height: 300px;
+	width: 200px;
+	position: center;
+}
+.carousel {
+
+}
+
+</style>
