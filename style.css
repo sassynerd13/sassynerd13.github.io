@@ -1,14 +1,14 @@
 <style>
 body {
-	text-align: center;
-	background: rgba();
+	background: rgba(60, 179, 113, 1);
 }
 img {
-	margin: 40px
-	;
+	margin: 40px;
+	border: 50px solid gray;
+	border-radius: 100px;
 }
 h1 {
-
+	text-align: center
 }
 
 </style>
