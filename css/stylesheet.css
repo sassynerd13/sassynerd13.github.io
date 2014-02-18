@@ -1,6 +1,6 @@
 <style>
 body {
-	background: rgba(60,179,113,1);
+	background-color: #3CB371;
 	margin: 0 auto;
 	max-width: 600px;
 }
@@ -10,19 +10,21 @@ h1 {
 	font-size: 150px;
 }
 div {
-
+  position: relative;
+  left: 50%;
 }
-
 .firstImage {
-	height: 300px;
-	width: 200px;
-	position: relative;
-	left: 50%;
-	border: 15px solid rgba(50,50,50,.8);
+	width: 230px;
+  height: 300px;
+	border: 10px solid rgba(50,50,50,.8);
 	border-radius: 25px;
 }
 .carousel {
 
+}
+
+.about {
+	
 }
 
 </style>
