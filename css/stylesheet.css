@@ -2,7 +2,6 @@
 body {
 	background-color: #3CB371;
 	margin: 0 auto;
-	max-width: 600px;
 }
 h1 {
 	font-family: 'Engagement', cursive;
@@ -15,7 +14,7 @@ div {
 }
 .firstImage {
 	width: 230px;
-  height: 300px;
+  	height: 300px;
 	border: 10px solid rgba(50,50,50,.8);
 	border-radius: 25px;
 }
