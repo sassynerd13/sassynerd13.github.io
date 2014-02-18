@@ -1,10 +1,8 @@
 <style>
 body {
-	background-color: #EE4000;
-	margin: 0 auto;
+	color: #EE4000;
 	font-family: 'Raleway', sans-serif;
 	font-size: 85px;
-	color: black;
 	text-align: center;
 }
 h1 {
@@ -28,14 +26,6 @@ div {
 .carousel {
 
 }
-
-.about {
-	font-family: 'Raleway', sans-serif;
-	font-size: 85px;
-	color: black;
-	text-align: center;
-
-
 }
 
 </style>
