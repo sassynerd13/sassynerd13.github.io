@@ -2,7 +2,9 @@
 body {
 	background-color: #EE4000;
 	margin: 0 auto;
-	font-family: 'Engagement', cursive;
+	font-family: 'Raleway', sans-serif;
+	font-size: 85px;
+	color: black;
 	text-align: center;
 }
 h1 {
@@ -11,7 +13,6 @@ h1 {
 	font-size: 150px;
 }
 div {
-  background-size: cover;
   position: relative;
   left: 50%;
 
