@@ -4,7 +4,7 @@ body {
 	background-position: center;
 	color: solid white;
 	font-family: 'Raleway', sans-serif;
-	font-size: 40px;
+	font-size: 30px;
 	font-weight: 500;
 	text-align: justify;
 }
@@ -22,7 +22,7 @@ div {
   	height: 300px;
 	border: 8px solid rgba(50,50,50,.8);
 	border-radius: 25px;
-	position: relative;
+	position: absolute;
 	left: 50%;
 }
 .carousel {
