@@ -1,9 +1,12 @@
 body {
-
-	color: rgba(60,179,113,1);
-	font-family: 'Raleway', sans-serif; font-weight: 500;
+	background-color: rgba(60,179,113,1);
+	background-size: cover;
+	background-position: center;
+	color: solid white;
+	font-family: 'Raleway', sans-serif;
 	font-size: 40px;
-	text-align: center;
+	font-weight: 500;
+	text-align: justify;
 }
 h1 {
 	font-family: 'Engagement', cursive;
@@ -17,7 +20,7 @@ div {
 .Header {
 	width: 230px;
   	height: 300px;
-	border: 10px solid rgba(50,50,50,.8);
+	border: 8px solid rgba(50,50,50,.8);
 	border-radius: 25px;
 	position: relative;
 	left: 50%;
