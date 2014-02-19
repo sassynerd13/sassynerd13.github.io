@@ -2,17 +2,16 @@ header {
 	background-color: rgba(67,205,128,1);
 	background-size: cover;
 	background-position: center;
+	border-bottom: 15px dotted white;
 	text-align: center;
 	font-family: 'Engagement', cursive;
 	font-size: 100px;
 }
 body {
 	background-color: rgba(60,179,113,1);
-	background-size: cover;
 	background-position: center;
 	color: white;
 	padding: 30px;
-	border-top: 15px dotted white;
 	font-family: 'Raleway', sans-serif;
 	font-size: 30px;
 	font-weight: 500;
