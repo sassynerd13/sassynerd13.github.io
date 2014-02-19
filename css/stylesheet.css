@@ -1,26 +1,29 @@
+header {
+	background-color: rgba(67,205,128,1);
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+	font-family: 'Engagement', cursive;
+	font-size: 150px;
+}
 body {
 	background-color: rgba(60,179,113,1);
 	background-size: cover;
 	background-position: center;
-	color: solid white;
+	color: white;
 	font-family: 'Raleway', sans-serif;
 	font-size: 30px;
 	font-weight: 500;
 	text-align: justify;
 }
-h1 {
-	font-family: 'Engagement', cursive;
-	text-align: center;
-	font-size: 150px;
-}
 div {
   	position: relative;
   	left: 50%;
 }
-.Header {
+.header {
 	width: 230px;
   	height: 300px;
-	border: 8px solid rgba(50,50,50,.8);
+	border: 5px solid rgba(50,50,50,.8);
 	border-radius: 25px;
 	position: absolute;
 	left: 50%;
