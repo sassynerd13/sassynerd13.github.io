@@ -1,8 +1,7 @@
-<style>
 body {
-	color: #EE4000;
+	color: rgba(60,179,113,1);
 	font-family: 'Raleway', sans-serif; font-weight: 500;
-	font-size: 85px;
+	font-size: 40px;
 	text-align: center;
 }
 h1 {
@@ -11,11 +10,10 @@ h1 {
 	font-size: 150px;
 }
 div {
-  position: relative;
-  left: 50%;
-
+  	position: relative;
+  	left: 50%;
 }
-.firstImage {
+.Header {
 	width: 230px;
   	height: 300px;
 	border: 10px solid rgba(50,50,50,.8);
@@ -28,4 +26,3 @@ div {
 }
 }
 
-</style>
