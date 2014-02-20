@@ -1,11 +1,11 @@
 header {
 	background-color: rgba(67,205,128,1);
-	background-size: cover;
 	background-position: center;
-	border-bottom: 15px dotted white;
+	border-bottom: 4px dotted rgba(255,255,255,.7);
 	text-align: center;
 	font-family: 'Engagement', cursive;
 	font-size: 100px;
+	margin: 0 auto;
 }
 body {
 	background-color: rgba(60,179,113,1);
@@ -21,11 +21,13 @@ div {
   	position: relative;
   	left: 50%;
 }
-.header {
+.headshot {
 	width: 230px;
   	height: 300px;
 	border: 5px solid rgba(50,50,50,.8);
 	border-radius: 25px;
+	padding: 15px;
+	text-align: center;
 }
 .carousel {
 	
